@@ -1,0 +1,8 @@
+#ignore temp file
+temp.txt
+
+#ignore logs folder
+logs/
+
+#ignore all txt in docs
+docs/*.txt
